@@ -1,5 +1,4 @@
-# TB_files 
-Tight-binding Hamiltonians 
+# Tight-binding Hamiltonians files
 
 Wannier90_hr.dat
 
